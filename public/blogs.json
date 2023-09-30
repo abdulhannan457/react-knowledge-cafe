@@ -1,0 +1,53 @@
+[
+    {
+        "id": "12345",
+        "cover": "https://i.ibb.co/8sxm9VQ/image.png",
+        "title": "The Enigmatic Chronicles",
+        "author": "Emily Johnson",
+        "author_img": "https://i.ibb.co/wJfNDT0/image.png",
+        "posted_date": "September 15, 2023",
+        "reading_time": 20,
+        "hashtags": ["#Mystery", "#Adventure", "#Novel"]
+    },
+    {
+        "id": "67890",
+        "cover": "https://i.ibb.co/NKVbH1R/laptop-camera-colorful-background.jpg",
+        "title": "Beyond the Stars",
+        "author": "David Anderson",
+        "author_img": "https://i.ibb.co/ts9G5q9/young-bearded-man-glasses-blue-shirt-holding-book-smiling-confident.jpg",
+        "posted_date": "August 28, 2023",
+        "reading_time": 25,
+        "hashtags": ["#SciFi", "#Exploration", "#Space"]
+    },
+    {
+        "id": "23456",
+        "cover": "https://i.ibb.co/VL6yyTL/flat-lay-top-view-office-table-desk-workspace-background.jpg",
+        "title": "Secrets of the Lost Temple",
+        "author": "Sarah Mitchell",
+        "author_img": "https://example.com/author3.jpg",
+        "posted_date": "July 10, 2023",
+        "reading_time": 15,
+        "hashtags": ["#Adventure", "#Mystery", "#Archaeology"]
+    },
+    {
+        "id": "78901",
+        "cover": "https://i.ibb.co/cFv49H1/image.png",
+        "title": "The Art of Cooking",
+        "author": "Michael Smith",
+        "author_img": "https://i.ibb.co/wJfNDT0/image.png",
+        "posted_date": "June 5, 2023",
+        "reading_time": 30,
+        "hashtags": ["#Cooking", "#Culinary", "#Recipes"]
+    },
+    {
+        "id": "34567",
+        "cover": "https://i.ibb.co/mt9ggNm/image.png",
+        "title": "A Journey Through History",
+        "author": "Jessica Williams",
+        "author_img": "https://i.ibb.co/wJfNDT0/image.png",
+        "posted_date": "May 19, 2023",
+        "reading_time": 40,
+        "hashtags": ["#History", "#Exploration", "#Education"]
+    }
+]
+
